@@ -16,14 +16,16 @@ Skills: Data Blending, Data preparation, Data Investigation, Data Visualisation,
 # Education
 
 ### Data Analyst
-#### Company Name:Catchafire
-#### Dates Employed Jun 2017 – Mar 2018
-#### Location London, United Kingdom
+##### Company Name:Catchafire
+##### Dates Employed Jun 2017 – Mar 2018
+##### Location London, United Kingdom
+
+Responsibilities
 * Interpret data, analyze results using statistical techniques and provide ongoing reports / interactive dashboards;
 * Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality;
 * Identify, analyze, and interpret trends or patterns in complex data sets;
 * Work with management to prioritise organisation and information needs as well as locate and define new process improvement opportunities.
-
+--------
 Freelancer
 Market Research Analyst
 Company NameFreelancer
@@ -44,11 +46,11 @@ Employment Duration1 yr 1 mo
 LocationLondon, United Kingdom
 Industry: Information Technology / Telecom
 
-Responsibilities:
-> Responsible for managing and developing existing / new business partnerships with Mobile Operators in order to trial and ensure successful adoption of the ONEm services within the European Market;
+Responsibilities
+ Responsible for managing and developing existing / new business partnerships with Mobile Operators in order to trial and ensure successful adoption of the ONEm services within the European Market;
 > Perform Telecom Market Analysis in order to discover insight and trends of Mobile Operators based on GSMAIntelligence Platform and other data sets (Data entry, data collection, data processing and reporting insights);
 > Presenting findings and data to management and other team members in order to improve strategies and recommend actions.
-see less
+
 Freelancer
 Business Development Consultant
 Company NameFreelancer
