@@ -18,11 +18,11 @@ Skills: Data Blending, Data preparation, Data Investigation, Data Visualisation,
 ### Data Analyst @ Catchafire 
 ##### [Jun 2017 / Mar 2018] - London, United Kingdom
 
-###### Responsibilities
-* Interpret data, analyze results using statistical techniques and provide ongoing reports / interactive dashboards;
-* Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality;
-* Identify, analyze, and interpret trends or patterns in complex data sets;
-* Work with management to prioritise organisation and information needs as well as locate and define new process improvement opportunities.
+Responsibilities
+• Interpret data, analyze results using statistical techniques and provide ongoing reports / interactive dashboards;
+• Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality;
+• Identify, analyze, and interpret trends or patterns in complex data sets;
+• Work with management to prioritise organisation and information needs as well as locate and define new process improvement opportunities.
 
 
 
