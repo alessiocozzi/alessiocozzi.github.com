@@ -1,5 +1,3 @@
-### About
-
 During my career I’ve been working in Corporate, Start-up and Non-profit Organisations across various industries such as Retail, Hospitality, Telecom, Professional Services and Good Causes.
 Being responsible for several business processes within the organisations, helped me to have a wide understanding about the Industry, how the companies operates and what is required to succeed.
 
