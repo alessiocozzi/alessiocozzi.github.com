@@ -26,62 +26,54 @@ Responsibilities
 
 
 
-Market Research Analyst
-Company Name:Freelancer
-Dates EmployedNov 2016 – Mar 2018
-Employment Duration1 yr 5 mos
-LocationLondon, United Kingdom
+### Market Research Analyst @ Freelancer
+##### [Nov 2016 – Mar 2018] - London, United Kingdom
+
+
 Responsibilities:
-• Collect data on consumers, competitors and market place and consolidate information into actionable items, reports and presentations;
-• Understand business objectives and design surveys to discover prospective customers’ preferences;
-• Provide competitive analysis on various companies’ market offerings, identify market trends, pricing/business models, sales and methods of operation;
-• Remain fully informed on market trends, other parties research and implement best practices.
+- Collect data on consumers, competitors and market place and consolidate information into actionable items, reports and presentations;
+- Understand business objectives and design surveys to discover prospective customers’ preferences;
+- Provide competitive analysis on various companies’ market offerings, identify market trends, pricing/business models, sales and methods of operation;
+- Remain fully informed on market trends, other parties research and implement best practices.
 see less
-ONEm Communications Ltd.
-Senior Account Manager / Market Research Analyst
-Company NameONEm Communications Ltd.
-Dates EmployedOct 2015 – Oct 2016
-Employment Duration1 yr 1 mo
-LocationLondon, United Kingdom
-Industry: Information Technology / Telecom
+
+
+
+### Senior Account Manager / Market Research Analyst @ ONEm Communications Ltd.
+##### [Oct 2015 – Oct 2016] - London, United Kingdom
 
 Responsibilities
- Responsible for managing and developing existing / new business partnerships with Mobile Operators in order to trial and ensure successful adoption of the ONEm services within the European Market;
-> Perform Telecom Market Analysis in order to discover insight and trends of Mobile Operators based on GSMAIntelligence Platform and other data sets (Data entry, data collection, data processing and reporting insights);
-> Presenting findings and data to management and other team members in order to improve strategies and recommend actions.
+- Responsible for managing and developing existing / new business partnerships with Mobile Operators in order to trial and ensure successful adoption of the ONEm services within the European Market;
+- Perform Telecom Market Analysis in order to discover insight and trends of Mobile Operators based on GSMAIntelligence Platform and other data sets (Data entry, data collection, data processing and reporting insights);
+- Presenting findings and data to management and other team members in order to improve strategies and recommend actions.
 
-Freelancer
-Business Development Consultant
-Company NameFreelancer
-Dates EmployedJan 2015 – Sep 2015
-Employment Duration9 mos
-LocationJohannesburg Area, South Africa
-Industry: Information Technology / Retail & Hospitality
+
+### Business Development @ Consultant 
+##### [Jan 2015 – Sep 2015] - Johannesburg, South Africa
+##### Information Technology / Retail & Hospitality
 
 Responsibilities:
-> Create strategic development plans, including active sales pipeline and implementation, to build new profitable business;
-> Track and report progress with implementation of strategic plan, customer budgets, and ongoing forecasts;
-> Perform analysis to determine opportunities in the market and customer needs.
-see less
-NCR Corporation
-Channel Account Manager - Southern & Central Africa
-Company NameNCR Corporation
-Dates EmployedJul 2012 – Dec 2014
-Employment Duration2 yrs 6 mos
-LocationJohannesburg Area, South Africa
-Industry: Information Technology / Retail & Hospitality
+- Create strategic development plans, including active sales pipeline and implementation, to build new profitable business;
+- Track and report progress with implementation of strategic plan, customer budgets, and ongoing forecasts;
+- Perform analysis to determine opportunities in the market and customer needs.
 
-Responsibilities:
-> Responsible for managing, identifying and closing opportunities with Retailers, as well manage and develop partners in order to achieve targets in South Africa, Botswana, Lesotho, Namibia, Swaziland;
-> Perform market research and identified IT Retail trends, adoption rate of NCR's solutions; as well investigate competition's market and their products versus the products offered by NCR;
-> CRM Administrator Salesforce platform to maintain quality and clear data as well as and perform Weekly, Monthly, Quarterly and Yearly financial reports and build predictions based on data collected.
-see less
+
+### Channel Account Manager - Southern & Central Africa @ NCR Corporation
+##### [Jul 2012 – Dec 2014] - Johannesburg, South Africa
+##### Information Technology / Retail & Hospitality
+
+Responsibilities
+- Responsible for managing, identifying and closing opportunities with Retailers, as well manage and develop partners in order to achieve targets in South Africa, Botswana, Lesotho, Namibia, Swaziland;
+- Perform market research and identified IT Retail trends, adoption rate of NCR's solutions; as well investigate competition's market and their products versus the products offered by NCR;
+- CRM Administrator Salesforce platform to maintain quality and clear data as well as and perform Weekly, Monthly, Quarterly and Yearly financial reports and build predictions based on data collected.
+
 The Hong Kong Polytechnic University
 Conference Speaker - Social Media Technologies
 Company NameThe Hong Kong Polytechnic University
 Dates EmployedNov 2011
 Employment Duration1 mo
 LocationHung Hom, Kowloon (HONG KONG - 香港)
+
 InfoFACTORY
 Web Analyst
 Company NameInfoFACTORY
