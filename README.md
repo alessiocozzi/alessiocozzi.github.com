@@ -15,20 +15,18 @@ Skills: Data Blending, Data preparation, Data Investigation, Data Visualisation,
 
 # Education
 
-### Data Analyst
-##### Company Name:Catchafire
-##### Dates Employed Jun 2017 – Mar 2018
-##### Location London, United Kingdom
+### Data Analyst @ Catchafire - [Jun 2017 / Mar 2018] - London, United Kingdom
 
 Responsibilities
 * Interpret data, analyze results using statistical techniques and provide ongoing reports / interactive dashboards;
 * Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality;
 * Identify, analyze, and interpret trends or patterns in complex data sets;
 * Work with management to prioritise organisation and information needs as well as locate and define new process improvement opportunities.
---------
-Freelancer
+
+
+
 Market Research Analyst
-Company NameFreelancer
+Company Name:Freelancer
 Dates EmployedNov 2016 – Mar 2018
 Employment Duration1 yr 5 mos
 LocationLondon, United Kingdom
