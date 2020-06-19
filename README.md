@@ -2,12 +2,12 @@ During my career I’ve been working in Corporate, Start-up and Non-profit Organ
 Being responsible for several business processes within the organisations, helped me to have a wide understanding about the Industry, how the companies operates and what is required to succeed.
 
 Qualities:
-* Attention to detail & ability to work in a pressurised time sensitive environment;
-* Self-starter, Positive attitude to work and eager to learn and improve skills;
-* Results oriented and focused to meet and exceed goals and objectives;
-* Personal and group work organisation coupled with time management skills;
-* Confident communicator with project management skills;
-* Interpersonal skills to effectively interact with all levels within and outside of the organisation.
+• Attention to detail & ability to work in a pressurised time sensitive environment;
+• Self-starter, Positive attitude to work and eager to learn and improve skills;
+• Results oriented and focused to meet and exceed goals and objectives;
+• Personal and group work organisation coupled with time management skills;
+• Confident communicator with project management skills;
+• Interpersonal skills to effectively interact with all levels within and outside of the organisation.
 
 Tools: Microsoft Excel, Microsoft Access, Microsoft PowerPoint, Tableau, SQL, PowerBI.
 Skills: Data Blending, Data preparation, Data Investigation, Data Visualisation, Insights Reporting. 
