@@ -13,14 +13,84 @@ Tools: Microsoft Excel, Microsoft Access, Microsoft PowerPoint, Tableau, SQL, Po
 Skills: Data Blending, Data preparation, Data Investigation, Data Visualisation, Insights Reporting. 
 
 
-
-
-
-You can use the [editor on GitHub](https://github.com/alessiocozzi/alessiocozzi.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 # Education
+
+## Data Analyst
+### Company Name:Catchafire
+### Dates Employed Jun 2017 – Mar 2018
+### Location London, United Kingdom
+* Interpret data, analyze results using statistical techniques and provide ongoing reports / interactive dashboards;
+* Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality;
+* Identify, analyze, and interpret trends or patterns in complex data sets;
+* Work with management to prioritise organisation and information needs as well as locate and define new process improvement opportunities.
+
+Freelancer
+Market Research Analyst
+Company NameFreelancer
+Dates EmployedNov 2016 – Mar 2018
+Employment Duration1 yr 5 mos
+LocationLondon, United Kingdom
+Responsibilities:
+• Collect data on consumers, competitors and market place and consolidate information into actionable items, reports and presentations;
+• Understand business objectives and design surveys to discover prospective customers’ preferences;
+• Provide competitive analysis on various companies’ market offerings, identify market trends, pricing/business models, sales and methods of operation;
+• Remain fully informed on market trends, other parties research and implement best practices.
+see less
+ONEm Communications Ltd.
+Senior Account Manager / Market Research Analyst
+Company NameONEm Communications Ltd.
+Dates EmployedOct 2015 – Oct 2016
+Employment Duration1 yr 1 mo
+LocationLondon, United Kingdom
+Industry: Information Technology / Telecom
+
+Responsibilities:
+> Responsible for managing and developing existing / new business partnerships with Mobile Operators in order to trial and ensure successful adoption of the ONEm services within the European Market;
+> Perform Telecom Market Analysis in order to discover insight and trends of Mobile Operators based on GSMAIntelligence Platform and other data sets (Data entry, data collection, data processing and reporting insights);
+> Presenting findings and data to management and other team members in order to improve strategies and recommend actions.
+see less
+Freelancer
+Business Development Consultant
+Company NameFreelancer
+Dates EmployedJan 2015 – Sep 2015
+Employment Duration9 mos
+LocationJohannesburg Area, South Africa
+Industry: Information Technology / Retail & Hospitality
+
+Responsibilities:
+> Create strategic development plans, including active sales pipeline and implementation, to build new profitable business;
+> Track and report progress with implementation of strategic plan, customer budgets, and ongoing forecasts;
+> Perform analysis to determine opportunities in the market and customer needs.
+see less
+NCR Corporation
+Channel Account Manager - Southern & Central Africa
+Company NameNCR Corporation
+Dates EmployedJul 2012 – Dec 2014
+Employment Duration2 yrs 6 mos
+LocationJohannesburg Area, South Africa
+Industry: Information Technology / Retail & Hospitality
+
+Responsibilities:
+> Responsible for managing, identifying and closing opportunities with Retailers, as well manage and develop partners in order to achieve targets in South Africa, Botswana, Lesotho, Namibia, Swaziland;
+> Perform market research and identified IT Retail trends, adoption rate of NCR's solutions; as well investigate competition's market and their products versus the products offered by NCR;
+> CRM Administrator Salesforce platform to maintain quality and clear data as well as and perform Weekly, Monthly, Quarterly and Yearly financial reports and build predictions based on data collected.
+see less
+The Hong Kong Polytechnic University
+Conference Speaker - Social Media Technologies
+Company NameThe Hong Kong Polytechnic University
+Dates EmployedNov 2011
+Employment Duration1 mo
+LocationHung Hom, Kowloon (HONG KONG - 香港)
+InfoFACTORY
+Web Analyst
+Company NameInfoFACTORY
+Dates EmployedNov 2009 – Apr 2010
+Employment Duration6 mos
+LocationVenice Area (Italy) - EUROPE
+Show fewer experiences 
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
