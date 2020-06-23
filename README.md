@@ -7,7 +7,7 @@
 #### ETL Pipeline
 
 
-### Exploratory Data Analysis
+#### Exploratory Data Analysis
 
 
 #### Web Scraping & API
