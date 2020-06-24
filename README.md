@@ -2,13 +2,25 @@
 
 #### Data Warehouse
 
-* hdfghdfgh
+* Prog
 
 #### ETL Pipeline
 
-* hfghfghdfgh
+* Prog
 
 #### Exploratory Data Analysis
 
+* Prog
+
 
 #### Web Scraping & API
+
+* Prog
+
+#### Data Wrangling
+
+* Prog
+
+#### PowerBI
+
+* Prog
