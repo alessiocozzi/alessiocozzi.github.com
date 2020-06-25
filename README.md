@@ -1,7 +1,7 @@
 ### Projects
 
 #### Data Warehouse
-<br/>
+
 * **Superstore Data Warehouse**: Python, Postgres SQL [link](https://github.com/alessiocozzi/Superstore-Data-Warehouse)
 
 * **Northwind Data Warehouse**:  Python, Postgres SQL [link](https://github.com/alessiocozzi/Northwind-Data-Warehouse)
