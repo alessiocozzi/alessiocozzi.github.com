@@ -2,11 +2,11 @@
 
 #### Data Warehouse
 
-* **Superstore Data Warehouse**: Python, Postgres SQL [link](https://github.com/alessiocozzi/Superstore-Data-Warehouse)
+* **Superstore Data Warehouse**: Python, Postgres SQL [link to proejct](https://github.com/alessiocozzi/Superstore-Data-Warehouse)
 
-* **Northwind Data Warehouse**:  Python, Postgres SQL [link](https://github.com/alessiocozzi/Northwind-Data-Warehouse)
+* **Northwind Data Warehouse**:  Python, Postgres SQL [link to proejct](https://github.com/alessiocozzi/Northwind-Data-Warehouse)
 
-
+* **Instacart Market Basket Data Warehouse**: Python, Postgres SQL [link to proejct](https://github.com/alessiocozzi/Instacart-Market-Basket-Data-Warehouse)
 
 #### ETL Pipeline
 
