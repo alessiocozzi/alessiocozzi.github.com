@@ -2,7 +2,7 @@
 
 #### Data Warehouse
 
-&nbsp;
+/
 
 * **Superstore Data Warehouse**: Python, Postgres SQL [link](https://github.com/alessiocozzi/Superstore-Data-Warehouse)
 
