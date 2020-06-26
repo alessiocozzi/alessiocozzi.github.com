@@ -2,8 +2,6 @@
 
 ### Project
 
-<br/>
-
 #### Data Warehouse
 
 * **Superstore Data Warehouse**: Python, Postgres SQL [link to proejct](https://github.com/alessiocozzi/Superstore-Data-Warehouse)
@@ -34,6 +32,27 @@
 * Prog
 
 #### Datasets for Business Intelligence
+
+
+### Certificates
+
+#### Database systems Specialization
+* Relational database systems [TODO]
+* Business intelligence and data warehousing [TODO]
+* NoSQL systems [TODO]
+* Designing data-intensive applications [TODO]
+
+
+#### Big Data Specialization (UC San Diego)
+* Introduction to Big Data [TODO]
+* Big Data Modeling and Management Systems [TODO]
+* Big Data Integration and Processing [TODO]
+* Machine Learning With Big Data [TODO]
+* Graph Analytics for Big Data [TODO]
+* Big Data - Capstone Project [TODO]
+
+
+
 
 https://relational.fit.cvut.cz/dataset/Northwind
 
