@@ -41,6 +41,13 @@
 * Managing Big Data in Clusters and Cloud Storage [TODO]
 
 
+#### Data Warehousing for Business Intelligence Specialization [University of Colorado System]
+* Database Management Essentials [TODO]
+* Data Warehouse Concepts, Design, and Data Integration [TODO]
+* Relational Database Support for Data Warehouses [TODO]
+* Business Intelligence Concepts, Tools, and Applications [TODO]
+* Design and Build a Data Warehouse for Business Intelligence Implementation [TODO]
+
 #### Database systems Specialization [Universidad Nacional Autónoma de México]
 * Relational database systems [TODO]
 * Business intelligence and data warehousing [TODO]
