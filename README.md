@@ -4,8 +4,10 @@
 
 #### Data Warehouse
 
-* **Superstore Data Warehouse**: Python, Postgres SQL [link to proejct](https://github.com/alessiocozzi/Superstore-Data-Warehouse)
-* **Northwind Data Warehouse**:  Python, Postgres SQL [link to proejct](https://github.com/alessiocozzi/Northwind-Data-Warehouse)
+[TO TEST WITH SQL SERVER or ORACLE]
+
+* **Superstore Data Warehouse**: Python, Postgres SQL <a href="https://github.com/alessiocozzi/Superstore-Data-Warehouse" target="_blank">link to proejct</a>
+* **Northwind Data Warehouse**:  Python, Postgres SQL <a href="https://github.com/alessiocozzi/Northwind-Data-Warehouse" target="_blank">link to proejct</a>
 * **Instacart Market Basket Data Warehouse**: Python, Postgres SQL <a href="https://github.com/alessiocozzi/Instacart-Market-Basket-Data-Warehouse" target="_blank">link to proejct</a>
 
 #### ETL Pipeline
@@ -14,7 +16,10 @@
 
 #### Exploratory Data Analysis
 
-* Prog
+[FIND DATASETS FOR EXPLORATORY DATA ANALYSIS]
+
+* **Montreal Biking Dataset**: Python, Pandas, Numpy, Matplotlib, Seaborn [link to proejct](https://github.com/alessiocozzi/Montreal-biking-data-EDA/blob/master/Montreal_biking_data_EDA_ipynb.ipynb)
+* **Airbnb Dataset**: Python, Pandas, Numpy, Matplotlib, Seaborn [link to project]
 
 
 #### Web Scraping & API
