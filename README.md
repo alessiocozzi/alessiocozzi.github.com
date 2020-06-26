@@ -98,3 +98,8 @@
 
 ### APIs
 * https://any-api.com/?tag=open%20data
+
+### EDA links:
+* https://www.kaggle.com/ekami66/detailed-exploratory-data-analysis-with-python
+* https://www.kaggle.com/pavansanagapati/a-simple-tutorial-on-exploratory-data-analysis
+* https://www.dataquest.io/blog/free-datasets-for-projects/
