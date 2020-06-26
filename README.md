@@ -35,33 +35,45 @@
 ### Certificates
 
 
-#### Modern Big Data Analysis with SQL Specialization [CLOUDERA]
+#### Modern Big Data Analysis with SQL Specialization 
+#### [CLOUDERA] <p style="color:red bold;">PRIORITY</p>
+
 * Foundations for Big Data Analysis with SQL [TODO]
 * Analyzing Big Data with SQL [TODO]
 * Managing Big Data in Clusters and Cloud Storage [TODO]
 
 
-#### Data Warehousing for Business Intelligence Specialization [University of Colorado System]
+#### Data Warehousing for Business Intelligence Specialization 
+#### [University of Colorado System]
 * Database Management Essentials [TODO]
 * Data Warehouse Concepts, Design, and Data Integration [TODO]
 * Relational Database Support for Data Warehouses [TODO]
 * Business Intelligence Concepts, Tools, and Applications [TODO]
 * Design and Build a Data Warehouse for Business Intelligence Implementation [TODO]
 
-#### Database systems Specialization [Universidad Nacional Autónoma de México]
+#### Database systems Specialization 
+#### [Universidad Nacional Autónoma de México]
 * Relational database systems [TODO]
 * Business intelligence and data warehousing [TODO]
 * NoSQL systems [TODO]
 * Designing data-intensive applications [TODO]
 
-
-#### Big Data Specialization [UC San Diego]
+#### Big Data Specialization 
+#### [UC San Diego]
 * Introduction to Big Data [TODO]
 * Big Data Modeling and Management Systems [TODO]
 * Big Data Integration and Processing [TODO]
 * Machine Learning With Big Data [TODO]
 * Graph Analytics for Big Data [TODO]
 * Big Data - Capstone Project [TODO]
+
+#### Excel to MySQL: Analytic Techniques for Business Specialization
+#### [Duke University]
+* Business Metrics for Data-Driven Companies [to check]
+* Mastering Data Analysis in Excel [to check]
+* Data Visualization and Communication with Tableau [to check]
+* Managing Big Data with MySQL [to check]
+* Increasing Real Estate Management Profits: Harnessing Data Analytics [to check]
 
 
 
