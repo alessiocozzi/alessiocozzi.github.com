@@ -95,3 +95,6 @@
 * https://stackoverflow.com/questions/236478/where-i-can-download-sample-database-which-can-be-used-as-data-warehouse
 * http://archive.ics.uci.edu/ml/index.php
 * https://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#3d86bf3fb54d
+
+### APIs
+* https://any-api.com/?tag=open%20data
