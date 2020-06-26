@@ -38,23 +38,23 @@
 #### Modern Big Data Analysis with SQL Specialization 
 #### [CLOUDERA] <strong style="color:red;">HIGH PRIORITY</strong>
 
-* Foundations for Big Data Analysis with SQL [TODO]
-* Analyzing Big Data with SQL [TODO]
-* Managing Big Data in Clusters and Cloud Storage [TODO]
+* Foundations for Big Data Analysis with SQL [TODO] [REQUESTED]
+* Analyzing Big Data with SQL [TODO] [REQUESTED]
+* Managing Big Data in Clusters and Cloud Storage [TODO] [REQUESTED]
 
 #### Database systems Specialization 
 #### [Universidad Nacional Autónoma de México] <strong style="color:red;">HIGH PRIORITY</strong>
-* Relational database systems [TODO]
-* Business intelligence and data warehousing [TODO]
-* NoSQL systems [TODO]
-* Designing data-intensive applications [TODO]
+* Relational database systems [TODO] [REQUESTED]
+* Business intelligence and data warehousing [TODO] [REQUESTED]
+* NoSQL systems [TODO] [REQUESTED]
+* Designing data-intensive applications [TODO] [REQUESTED]
 
 #### Big Data Specialization 
 #### [UC San Diego] <strong style="color:orange;">MEDIUM PRIORITY</strong>
-* Introduction to Big Data [TODO]
-* Big Data Modeling and Management Systems [TODO]
-* Big Data Integration and Processing [TODO]
-* Machine Learning With Big Data [TODO]
+* Introduction to Big Data [TODO] [REQUESTED]
+* Big Data Modeling and Management Systems [TODO] [REQUESTED]
+* Big Data Integration and Processing [TODO] [REQUESTED]
+* Machine Learning With Big Data [TODO] 
 * Graph Analytics for Big Data [TODO]
 * Big Data - Capstone Project [TODO]
 
