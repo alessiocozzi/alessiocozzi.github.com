@@ -36,7 +36,7 @@
 
 
 #### Modern Big Data Analysis with SQL Specialization 
-#### [CLOUDERA] <p style="color:red bold;">PRIORITY</p>
+#### [CLOUDERA] <strong style="color:red;">PRIORITY</strong>
 
 * Foundations for Big Data Analysis with SQL [TODO]
 * Analyzing Big Data with SQL [TODO]
