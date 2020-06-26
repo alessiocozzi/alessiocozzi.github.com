@@ -74,7 +74,12 @@
 * Managing Big Data with MySQL [to check]
 * Increasing Real Estate Management Profits: Harnessing Data Analytics [to check]
 
-
+#### Learn SQL Basics for Data Science Specialization
+#### [University of California, Davis] <strong style="color:yellow;">LOW PRIORITY</strong>
+* SQL for Data Science
+* Data Wrangling, Analysis and AB Testing with SQL
+* Distributed Computing with Spark SQL
+* SQL for Data Science Capstone Project
 
 ### Datasets for Business Intelligence
 * https://relational.fit.cvut.cz/dataset/Northwind
