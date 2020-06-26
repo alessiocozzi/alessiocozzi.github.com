@@ -65,7 +65,7 @@
 
 
 
-#### Datasets for Business Intelligence
+### Datasets for Business Intelligence
 * https://relational.fit.cvut.cz/dataset/Northwind
 * https://www.kaggle.com/c/instacart-market-basket-analysis/data?select=departments.csv.zip
 * https://sqlbelle.wordpress.com/2015/01/16/data-sets-for-bianalyticsvisualization-projects/
