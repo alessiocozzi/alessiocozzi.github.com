@@ -43,7 +43,7 @@
 #### Modern Big Data Analysis with SQL Specialization 
 #### [CLOUDERA] <strong style="color:red;">HIGH PRIORITY</strong>
 
-* Foundations for Big Data Analysis with SQL [TODO] [REQUESTED]
+* Foundations for Big Data Analysis with SQL <a href="https://rawcdn.githack.com/alessiocozzi/certificates/b859e057e34373144f8ac34a9d730caf4a724c36/Coursera%20WVC3XKKB5ZA6.pdf" target="_blank">link to certificate</a>
 * Analyzing Big Data with SQL [TODO] [REQUESTED]
 * Managing Big Data in Clusters and Cloud Storage [TODO] [REQUESTED]
 
