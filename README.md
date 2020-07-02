@@ -44,7 +44,7 @@
 #### [CLOUDERA] <strong style="color:red;">HIGH PRIORITY</strong>
 
 * Foundations for Big Data Analysis with SQL <a href="https://rawcdn.githack.com/alessiocozzi/certificates/b859e057e34373144f8ac34a9d730caf4a724c36/Coursera%20WVC3XKKB5ZA6.pdf" target="_blank">link to certificate</a>
-* Analyzing Big Data with SQL [TODO] [REQUESTED]
+* Analyzing Big Data with SQL <a href="https://rawcdn.githack.com/alessiocozzi/certificates/cf3c627ed0f6fdc823a1146e89a63af623541ff7/Coursera%20D9TNUVH4KGWT.pdf" target="_blank">link to certificate</a>
 * Managing Big Data in Clusters and Cloud Storage [TODO] [REQUESTED]
 
 #### Database systems Specialization 
