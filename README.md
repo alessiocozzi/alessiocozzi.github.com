@@ -41,11 +41,13 @@
 
 
 #### Modern Big Data Analysis with SQL Specialization 
-#### [CLOUDERA] <strong style="color:red;">HIGH PRIORITY</strong>
+#### [CLOUDERA] <a href="https://rawcdn.githack.com/alessiocozzi/certificates/4cc4437358c46c3ed8e630eb28fed674ff71eb28/Coursera%205JJWY4T23B2Z.pdf" target="_blank">link to certificate</a>
+
+
 
 * Foundations for Big Data Analysis with SQL <a href="https://rawcdn.githack.com/alessiocozzi/certificates/b859e057e34373144f8ac34a9d730caf4a724c36/Coursera%20WVC3XKKB5ZA6.pdf" target="_blank">link to certificate</a>
 * Analyzing Big Data with SQL <a href="https://rawcdn.githack.com/alessiocozzi/certificates/cf3c627ed0f6fdc823a1146e89a63af623541ff7/Coursera%20D9TNUVH4KGWT.pdf" target="_blank">link to certificate</a>
-* Managing Big Data in Clusters and Cloud Storage [TODO] [REQUESTED]
+* Managing Big Data in Clusters and Cloud Storage <a href="https://rawcdn.githack.com/alessiocozzi/certificates/4cc4437358c46c3ed8e630eb28fed674ff71eb28/Coursera NPDJJ2PLCJX5.pdf" target="_blank">link to certificate</a>
 
 #### Database systems Specialization 
 #### [Universidad Nacional Autónoma de México] <strong style="color:red;">HIGH PRIORITY</strong>
