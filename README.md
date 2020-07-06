@@ -119,3 +119,4 @@ https://github.com/MoroccanGeek/Business-Intelligence-project-with-TALEND-and-Po
 https://github.com/JackHannnnnn/IMT589-Business-Intelligence-Project
 https://github.com/sh16011993/advanced-data-guided-business-intelligence-capstone-project
 https://github.com/jainibhansali/Data-Warehousing-and-Business-Intelligence
+https://github.com/ojasphansekar/Data-Warehouse-and-Business-Intelligence
