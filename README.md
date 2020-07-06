@@ -88,6 +88,13 @@
 * Distributed Computing with Spark SQL
 * SQL for Data Science Capstone Project
 
+OTHER COURSES
+* https://www.coursera.org/specializations/information-systems
+* https://www.coursera.org/specializations/information-visualization
+* https://www.coursera.org/specializations/business-technology-managment
+
+
+
 ### Datasets for Business Intelligence
 * https://relational.fit.cvut.cz/dataset/Northwind
 * https://www.kaggle.com/c/instacart-market-basket-analysis/data?select=departments.csv.zip
@@ -105,3 +112,10 @@
 * https://www.kaggle.com/ekami66/detailed-exploratory-data-analysis-with-python
 * https://www.kaggle.com/pavansanagapati/a-simple-tutorial-on-exploratory-data-analysis
 * https://www.dataquest.io/blog/free-datasets-for-projects/
+
+
+### OTHER PROJECTS
+https://github.com/MoroccanGeek/Business-Intelligence-project-with-TALEND-and-PowerBI
+https://github.com/JackHannnnnn/IMT589-Business-Intelligence-Project
+https://github.com/sh16011993/advanced-data-guided-business-intelligence-capstone-project
+https://github.com/jainibhansali/Data-Warehousing-and-Business-Intelligence
