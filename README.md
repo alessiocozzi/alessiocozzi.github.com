@@ -92,6 +92,7 @@ OTHER COURSES
 * https://www.coursera.org/specializations/information-systems
 * https://www.coursera.org/specializations/information-visualization
 * https://www.coursera.org/specializations/business-technology-managment
+* https://www.youtube.com/playlist?list=PLMyP8LIIL3htySLrWaPSBYW09U_DzWoo6
 
 
 
